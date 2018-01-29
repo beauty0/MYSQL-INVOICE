@@ -1,1 +1,0 @@
-       CUS_ID	LAST_NAME	FIRST_NAME	       PHONE	2	Cinda	WHITMER	8657243	3	Sopoline	Weber	123454	4	Neil	Scot	120984	5	Anthony	Rick	134567	6	Yamine	Adam	156490	7	Helen	Mayor	154781	8	Clare	Morrison	179350									
